@@ -9,8 +9,8 @@ on:
       - main
 
 env:
-  GITHUB_NAME: ThaddeusJiang
-  GITHUB_EMAIL: thaddeusjiang@gmail.com
+  GITHUB_NAME: suluner
+  GITHUB_EMAIL: suluner2011@gmail.com
   STARED_NUMBER: 10
 
 jobs:
