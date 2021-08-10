@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-08-09   |
-|  2 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-08-08   |
-|  3 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-08-08   |
-|  4 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-08-09   |
-|  5 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
-|  6 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  7 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2021-08-08   |
-|  8 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-06-30   |
-|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-08-08   |
-| 10 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-08-08   |
+|  1 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-08-09   |
+|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-08-09   |
+|  3 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
+|  4 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2021-08-09   |
+|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-08-10   |
+|  6 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-08-09   |
+|  7 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-08-10   |
+|  8 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-08-09   |
+|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2021-08-09   |
+| 10 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-08-10   |
 
 <!--END_SECTION:my_github-->
