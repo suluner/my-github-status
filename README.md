@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-08-17   |
-|  2 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2021-08-17   |
-|  3 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-08-17   |
-|  4 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-08-17   |
-|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-08-17   |
-|  6 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  7 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2021-08-04   |
-|  8 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-08-17   |
-|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-08-17   |
-| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-08-17   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-08-18   |
+|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-08-18   |
+|  3 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-08-18   |
+|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-08-18   |
+|  5 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-08-18   |
+|  6 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
+|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python   | 2021-08-18   |
+|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                    | 2021-08-05 | HTML     | 2021-08-18   |
+|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-08-18   |
+| 10 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-08-15   |
 
 <!--END_SECTION:my_github-->
