@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-08-18   |
-|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-08-18   |
-|  3 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-08-18   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-08-18   |
-|  5 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-08-18   |
-|  6 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
-|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python   | 2021-08-18   |
-|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                    | 2021-08-05 | HTML     | 2021-08-18   |
-|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-08-18   |
-| 10 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-08-15   |
+|  1 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-08-15   |
+|  2 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-08-19   |
+|  3 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-08-19   |
+|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | md       | 2021-08-19   |
+|  5 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-08-19   |
+|  6 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-08-19   |
+|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-08-19   |
+|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python   | 2021-08-19   |
+|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                             | 2020-07-26 | Java     | 2020-10-10   |
+| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                    | 2021-08-05 | HTML     | 2021-08-19   |
 
 <!--END_SECTION:my_github-->
