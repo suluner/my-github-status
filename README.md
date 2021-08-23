@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-08-22   |
-|  2 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-08-15   |
-|  3 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-08-21   |
-|  4 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-08-21   |
-|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-08-21   |
-|  6 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-08-21   |
-|  7 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2021-08-20   |
-|  8 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-08-21   |
-|  9 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2021-08-21   |
-| 10 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2021-08-18   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [algorithms](https://github.com/xtaci/algorithms)                               | 2021-01-17 | C++      | 2021-08-22   |
+|  2 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)            | 2020-07-29 | md       | 2021-08-22   |
+|  3 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 2021-07-27 | Python   | 2021-08-22   |
+|  4 | [tf_repos](https://github.com/lambdaji/tf_repos)                                | 2021-04-20 | Python   | 2021-08-18   |
+|  5 | [America-Against-America](https://github.com/zealotCE/America-Against-America)  | 2021-01-11 | md       | 2021-08-22   |
+|  6 | [DesignPattern](https://github.com/suluner/DesignPattern)                       | 2020-07-26 | Java     | 2020-10-10   |
+|  7 | [darknet](https://github.com/pjreddie/darknet)                                  | 2017-03-17 | C        | 2021-08-22   |
+|  8 | [996.ICU](https://github.com/996icu/996.ICU)                                    | 2019-04-03 | Rust     | 2021-08-22   |
+|  9 | [Notes](https://github.com/suluner/Notes)                                       | 2020-08-25 | Java     | 2020-08-25   |
+| 10 | [ray](https://github.com/ray-project/ray)                                       | 2021-01-07 | Python   | 2021-08-22   |
 
 <!--END_SECTION:my_github-->
