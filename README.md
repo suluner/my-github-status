@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-08-24   |
-|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-08-24   |
-|  3 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-08-22   |
-|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-08-23   |
-|  5 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-08-15   |
-|  6 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-08-23   |
-|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-08-24   |
-|  8 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-08-23   |
-|  9 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-08-23   |
-| 10 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-08-23   |
+|  1 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-08-24   |
+|  2 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-08-15   |
+|  3 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-08-24   |
+|  4 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-08-24   |
+|  5 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-08-24   |
+|  6 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-08-24   |
+|  7 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-08-24   |
+|  8 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-08-24   |
+|  9 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-08-25   |
+| 10 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-08-24   |
 
 <!--END_SECTION:my_github-->
