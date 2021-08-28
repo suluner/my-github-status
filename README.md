@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-08-26   |
-|  2 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-08-26   |
-|  3 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-08-26   |
-|  4 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-08-26   |
-|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-08-26   |
-|  6 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-08-26   |
-|  7 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-08-26   |
-|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-08-27   |
-|  9 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-08-15   |
-| 10 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-08-26   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md         | 2021-08-28   |
+|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python     | 2021-08-27   |
+|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS        | 2021-08-27   |
+|  4 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2021-08-27   |
+|  5 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python     | 2021-08-27   |
+|  6 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md         | 2021-08-27   |
+|  7 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python     | 2021-08-27   |
+|  8 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2021-08-27   |
+|  9 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
+| 10 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2021-08-27   |
 
 <!--END_SECTION:my_github-->
