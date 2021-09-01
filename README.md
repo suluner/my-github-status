@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-08-15   |
-|  2 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-08-29   |
-|  3 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-08-31   |
-|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
-|  5 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | md       | 2021-08-31   |
-|  6 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-08-30   |
-|  7 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-08-30   |
-|  8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-08-30   |
-|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-08-31   |
-| 10 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-08-30   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md         | 2021-09-01   |
+|  2 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++        | 2021-08-31   |
+|  3 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python     | 2021-09-01   |
+|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust       | 2021-08-31   |
+|  5 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2021-08-31   |
+|  6 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python     | 2021-08-31   |
+|  7 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go         | 2021-08-31   |
+|  8 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python     | 2021-08-31   |
+|  9 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)  | 2021-08-27 | JavaScript | 2021-08-31   |
+| 10 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python     | 2021-08-31   |
 
 <!--END_SECTION:my_github-->
