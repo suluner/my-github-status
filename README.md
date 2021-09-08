@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python     | 2021-09-01   |
-|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  3 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-09-06   |
-|  4 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python     | 2021-09-05   |
-|  5 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2021-09-06   |
-|  6 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-09-05   |
-|  7 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2021-09-07   |
-|  8 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2021-09-06   |
-|  9 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
-| 10 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2021-09-06   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-09-08   |
+|  2 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-09-07   |
+|  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                       | 2021-08-30 | Python   | 2021-09-01   |
+|  4 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-09-07   |
+|  5 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-09-08   |
+|  6 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | md       | 2021-09-08   |
+|  7 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-09-07   |
+|  8 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-09-07   |
+|  9 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
+| 10 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-09-07   |
 
 <!--END_SECTION:my_github-->
