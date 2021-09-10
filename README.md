@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-09-08   |
-|  2 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-09-08   |
-|  3 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-09-08   |
-|  4 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-09-08   |
-|  5 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-09-09   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2021-09-08   |
-|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-09-08   |
-|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-09-08   |
-|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-09-07   |
-| 10 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-09-08   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [jina](https://github.com/jina-ai/jina)                                               | 2021-09-07 | Python   | 2021-09-09   |
+|  2 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-09-10   |
+|  3 | [darknet](https://github.com/pjreddie/darknet)                                        | 2017-03-17 | C        | 2021-09-09   |
+|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-09-07   |
+|  5 | [BentoML](https://github.com/bentoml/BentoML)                                         | 2021-08-20 | Python   | 2021-09-09   |
+|  6 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-09-10   |
+|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python   | 2021-09-09   |
+|  8 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-09-09   |
+|  9 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-09-09   |
+| 10 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-09-10   |
 
 <!--END_SECTION:my_github-->
