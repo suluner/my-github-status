@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [jina](https://github.com/jina-ai/jina)                                | 2021-09-07 | Python   | 2021-09-12   |
-|  2 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 2020-09-04 | md       | 2021-09-12   |
-|  3 | [algorithms](https://github.com/xtaci/algorithms)                      | 2021-01-17 | C++      | 2021-09-12   |
-|  4 | [Python](https://github.com/TheAlgorithms/Python)                      | 2020-05-22 | Python   | 2021-09-12   |
-|  5 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)     | 2021-08-05 | HTML     | 2021-09-12   |
-|  6 | [tf_repos](https://github.com/lambdaji/tf_repos)                       | 2021-04-20 | Python   | 2021-09-06   |
-|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)         | 2018-06-27 | Python   | 2021-09-12   |
-|  8 | [kubesphere](https://github.com/kubesphere/kubesphere)                 | 2021-02-01 | Go       | 2021-09-12   |
-|  9 | [tvm](https://github.com/tqchen/tvm)                                   | 2020-08-22 | Python   | 2021-09-05   |
-| 10 | [taichi](https://github.com/taichi-dev/taichi)                         | 2020-01-15 | C++      | 2021-09-12   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-09-14   |
+|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-09-13   |
+|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-09-13   |
+|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
+|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-09-13   |
+|  6 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-09-05   |
+|  7 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-09-13   |
+|  8 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2021-09-13   |
+|  9 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-09-08   |
+| 10 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-09-13   |
 
 <!--END_SECTION:my_github-->
