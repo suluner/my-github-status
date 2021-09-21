@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [ray](https://github.com/ray-project/ray)                                          | 2021-01-07 | Python   | 2021-09-20   |
-|  2 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-09-20   |
-|  3 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
-|  4 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-09-19   |
-|  5 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-09-19   |
-|  6 | [996.ICU](https://github.com/996icu/996.ICU)                                       | 2019-04-03 | Rust     | 2021-09-20   |
-|  7 | [Python](https://github.com/TheAlgorithms/Python)                                  | 2020-05-22 | Python   | 2021-09-20   |
-|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-09-19   |
-|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-09-17   |
-| 10 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-09-08   |
+|  1 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | md       | 2021-09-21   |
+|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-09-20   |
+|  3 | [folly](https://github.com/facebook/folly)                                         | 2021-08-27 | C++      | 2021-09-20   |
+|  4 | [ray](https://github.com/ray-project/ray)                                          | 2021-01-07 | Python   | 2021-09-21   |
+|  5 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-09-21   |
+|  6 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
+|  7 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-09-20   |
+|  8 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-09-20   |
+|  9 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-09-19   |
+| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-09-20   |
 
 <!--END_SECTION:my_github-->
