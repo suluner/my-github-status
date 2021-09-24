@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2021-09-22   |
+|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
 |  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  3 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python     | 2021-09-22   |
-|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2021-09-22   |
-|  5 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-09-08   |
-|  6 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python     | 2021-09-05   |
-|  7 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2021-09-16   |
-|  8 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-09-21   |
-|  9 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-09-22   |
-| 10 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-09-22   |
+|  3 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-09-23   |
+|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-09-21   |
+|  5 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2021-09-24   |
+|  6 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-09-23   |
+|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-09-23   |
+|  8 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python     | 2021-09-23   |
+|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-09-23   |
+| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-09-23   |
 
 <!--END_SECTION:my_github-->
