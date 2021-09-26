@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
-|  2 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-09-24   |
-|  3 | [BentoML](https://github.com/bentoml/BentoML)                                      | 2021-08-20 | Python   | 2021-09-24   |
+|  1 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-09-25   |
+|  2 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-09-25   |
+|  3 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-09-25   |
 |  4 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-09-24   |
-|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2021-09-25   |
-|  6 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | md       | 2021-09-24   |
-|  7 | [folly](https://github.com/facebook/folly)                                         | 2021-08-27 | C++      | 2021-09-25   |
-|  8 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2021-09-16   |
-|  9 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-09-24   |
-| 10 | [ray](https://github.com/ray-project/ray)                                          | 2021-01-07 | Python   | 2021-09-25   |
+|  5 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-09-25   |
+|  6 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-09-25   |
+|  7 | [tvm](https://github.com/tqchen/tvm)                                               | 2020-08-22 | Python   | 2021-09-05   |
+|  8 | [algorithms](https://github.com/xtaci/algorithms)                                  | 2021-01-17 | C++      | 2021-09-25   |
+|  9 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-09-25   |
+| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                       | 2019-04-03 | Rust     | 2021-09-25   |
 
 <!--END_SECTION:my_github-->
