@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2021-09-26   |
-|  2 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-09-17   |
-|  3 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2021-09-16   |
-|  4 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2021-09-27   |
-|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-09-26   |
-|  6 | [algorithms](https://github.com/xtaci/algorithms)                                  | 2021-01-17 | C++      | 2021-09-25   |
-|  7 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-09-26   |
-|  8 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-09-25   |
-|  9 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-09-26   |
-| 10 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-09-24   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2021-09-27   |
+|  2 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2021-09-27   |
+|  3 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-09-27   |
+|  4 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-09-27   |
+|  5 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2021-09-28   |
+|  6 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2021-09-27   |
+|  7 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++        | 2021-09-27   |
+|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2021-09-27   |
+|  9 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-09-27   |
+| 10 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-09-27   |
 
 <!--END_SECTION:my_github-->
