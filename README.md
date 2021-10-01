@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python     | 2021-09-05   |
-|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-09-29   |
-|  3 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  4 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-09-30   |
-|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-09-29   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-09-28   |
-|  7 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2021-09-30   |
-|  8 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-09-29   |
-|  9 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++        | 2021-09-29   |
-| 10 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-09-29   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python     | 2021-09-28   |
+|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                             | 2020-07-26 | Java       | 2020-10-10   |
+|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python     | 2021-09-30   |
+|  4 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python     | 2021-10-01   |
+|  5 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2021-10-01   |
+|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)  | 2021-08-27 | JavaScript | 2021-09-30   |
+|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go         | 2021-09-30   |
+|  8 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | md         | 2021-09-30   |
+|  9 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++        | 2021-09-30   |
+| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust       | 2021-09-30   |
 
 <!--END_SECTION:my_github-->
