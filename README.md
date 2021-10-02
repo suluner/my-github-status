@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python     | 2021-09-28   |
-|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                             | 2020-07-26 | Java       | 2020-10-10   |
-|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python     | 2021-09-30   |
-|  4 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python     | 2021-10-01   |
-|  5 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2021-10-01   |
-|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)  | 2021-08-27 | JavaScript | 2021-09-30   |
-|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go         | 2021-09-30   |
-|  8 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | md         | 2021-09-30   |
-|  9 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++        | 2021-09-30   |
-| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust       | 2021-09-30   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-10-02   |
+|  2 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-09-30   |
+|  3 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2021-10-01   |
+|  4 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-09-28   |
+|  5 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-09-30   |
+|  6 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | md       | 2021-10-01   |
+|  7 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
+|  8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-10-01   |
+|  9 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2021-10-01   |
+| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-09-28   |
 
 <!--END_SECTION:my_github-->
