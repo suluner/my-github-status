@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [darknet](https://github.com/pjreddie/darknet)                                        | 2017-03-17 | C        | 2021-10-04   |
-|  2 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-10-05   |
-|  3 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-10-05   |
-|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-10-04   |
-|  5 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                       | 2021-08-30 | Python   | 2021-09-28   |
-|  6 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-10-04   |
-|  7 | [jina](https://github.com/jina-ai/jina)                                               | 2021-09-07 | Python   | 2021-10-04   |
-|  8 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-10-04   |
-|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-10-04   |
-| 10 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-09-28   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-10-02   |
+|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-10-06   |
+|  3 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
+|  4 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-10-05   |
+|  5 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-10-05   |
+|  6 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-10-05   |
+|  7 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-05   |
+|  8 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2021-10-05   |
+|  9 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-10-05   |
+| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2021-10-02   |
 
 <!--END_SECTION:my_github-->
