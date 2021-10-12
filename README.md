@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-10-10   |
-|  2 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2021-10-10   |
+|  1 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-10-12   |
+|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2021-10-11   |
 |  3 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | md         | 2021-10-11   |
-|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-10-10   |
-|  5 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-10-10   |
-|  6 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-10-10   |
-|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2021-10-11   |
-|  8 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2021-10-07   |
-|  9 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-10-11   |
-| 10 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-10-10   |
+|  4 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-10-11   |
+|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-10-11   |
+|  6 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2021-10-12   |
+|  7 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-10-11   |
+|  8 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python     | 2021-09-28   |
+| 10 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++        | 2021-10-11   |
 
 <!--END_SECTION:my_github-->
