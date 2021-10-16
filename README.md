@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-10-14   |
-|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2021-10-14   |
-|  3 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
-|  4 | [tvm](https://github.com/tqchen/tvm)                                               | 2020-08-22 | Python   | 2021-09-05   |
-|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-10-14   |
-|  6 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)    | 2021-07-27 | Python   | 2021-10-14   |
-|  7 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-10-14   |
-|  8 | [BentoML](https://github.com/bentoml/BentoML)                                      | 2021-08-20 | Python   | 2021-10-14   |
-|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-10-13   |
-| 10 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2021-10-14   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-15   |
+|  2 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-10-15   |
+|  3 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2021-10-14   |
+|  4 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-10-15   |
+|  5 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-10-15   |
+|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2021-10-15   |
+|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-10-15   |
+|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-10-15   |
+|  9 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-10-15   |
+| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-10-13   |
 
 <!--END_SECTION:my_github-->
