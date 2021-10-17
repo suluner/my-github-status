@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-15   |
-|  2 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-10-15   |
-|  3 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2021-10-14   |
-|  4 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-10-15   |
-|  5 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-10-15   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2021-10-15   |
-|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-10-15   |
-|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-10-15   |
-|  9 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-10-15   |
-| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-10-13   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | md         | 2021-10-16   |
+|  2 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-10-16   |
+|  3 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2021-10-17   |
+|  4 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-10-16   |
+|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-10-16   |
+|  6 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-10-14   |
+|  7 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+|  8 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-10-17   |
+|  9 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2021-10-16   |
+| 10 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-10-16   |
 
 <!--END_SECTION:my_github-->
