@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2021-10-17   |
-|  2 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-10-17   |
-|  3 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-10-17   |
-|  4 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-10-17   |
-|  5 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-10-17   |
-|  6 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-10-15   |
-|  7 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-10-18   |
-|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-10-18   |
-|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-17   |
-| 10 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-10-17   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+|  2 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-10-18   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-10-18   |
+|  4 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2021-10-18   |
+|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python     | 2021-10-19   |
+|  6 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-10-19   |
+|  7 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2021-10-19   |
+|  8 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | md         | 2021-10-18   |
+|  9 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python     | 2021-09-05   |
+| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python     | 2021-10-13   |
 
 <!--END_SECTION:my_github-->
