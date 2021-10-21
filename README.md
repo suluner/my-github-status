@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [folly](https://github.com/facebook/folly)                                         | 2021-08-27 | C++      | 2021-10-19   |
-|  2 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-10-19   |
-|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-10-19   |
-|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | md       | 2021-10-19   |
-|  5 | [Python](https://github.com/TheAlgorithms/Python)                                  | 2020-05-22 | Python   | 2021-10-19   |
-|  6 | [BentoML](https://github.com/bentoml/BentoML)                                      | 2021-08-20 | Python   | 2021-10-19   |
-|  7 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-10-19   |
-|  8 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-10-19   |
-|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
-| 10 | [algorithms](https://github.com/xtaci/algorithms)                                  | 2021-01-17 | C++      | 2021-10-19   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-20   |
+|  2 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-10-20   |
+|  3 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-10-19   |
+|  4 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2021-10-20   |
+|  5 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-10-20   |
+|  6 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-10-20   |
+|  7 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-10-21   |
+|  8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-10-20   |
+|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2021-10-20   |
+| 10 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-10-20   |
 
 <!--END_SECTION:my_github-->
