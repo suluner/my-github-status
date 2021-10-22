@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-20   |
-|  2 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-10-20   |
-|  3 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-10-19   |
-|  4 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2021-10-20   |
-|  5 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-10-20   |
-|  6 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-10-20   |
-|  7 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-10-21   |
-|  8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-10-20   |
-|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2021-10-20   |
-| 10 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-10-20   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-10-20   |
+|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-10-21   |
+|  3 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-10-19   |
+|  4 | [ray](https://github.com/ray-project/ray)                                          | 2021-01-07 | Python   | 2021-10-22   |
+|  5 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2021-10-22   |
+|  6 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-10-21   |
+|  7 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2021-10-16   |
+|  8 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
+|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-10-20   |
+| 10 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-10-21   |
 
 <!--END_SECTION:my_github-->
