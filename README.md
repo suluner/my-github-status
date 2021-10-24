@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-10-22   |
-|  2 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-10-22   |
-|  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-10-20   |
-|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-10-22   |
-|  5 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-09-05   |
-|  6 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-10-22   |
-|  7 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2021-10-22   |
-|  8 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2021-10-22   |
-|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-22   |
-| 10 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2021-10-22   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-10-23   |
+|  2 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+|  3 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python     | 2021-10-23   |
+|  4 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-10-23   |
+|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-10-23   |
+|  6 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2021-10-23   |
+|  7 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-10-22   |
+|  8 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-10-23   |
+|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-10-24   |
+| 10 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2021-10-23   |
 
 <!--END_SECTION:my_github-->
