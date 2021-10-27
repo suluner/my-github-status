@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                 | 2021-03-02 | Python   | 2021-10-26   |
-|  2 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)          | 2020-09-04 | md       | 2021-10-25   |
-|  3 | [tvm](https://github.com/tqchen/tvm)                                            | 2020-08-22 | Python   | 2021-09-05   |
-|  4 | [algorithms](https://github.com/xtaci/algorithms)                               | 2021-01-17 | C++      | 2021-10-25   |
-|  5 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                 | 2021-08-30 | Python   | 2021-10-25   |
-|  6 | [Notes](https://github.com/suluner/Notes)                                       | 2020-08-25 | Java     | 2020-08-25   |
-|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 2021-07-27 | Python   | 2021-10-25   |
-|  8 | [BentoML](https://github.com/bentoml/BentoML)                                   | 2021-08-20 | Python   | 2021-10-25   |
-|  9 | [ray](https://github.com/ray-project/ray)                                       | 2021-01-07 | Python   | 2021-10-26   |
-| 10 | [training](https://github.com/mlcommons/training)                               | 2021-08-30 | Python   | 2021-10-25   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-09-05   |
+|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-10-26   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-10-26   |
+|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-10-26   |
+|  5 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-10-26   |
+|  6 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-10-27   |
+|  7 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-10-26   |
+|  8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-10-26   |
+|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-10-26   |
+| 10 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-10-26   |
 
 <!--END_SECTION:my_github-->
