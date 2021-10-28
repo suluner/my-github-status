@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-09-05   |
-|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-10-26   |
-|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-10-26   |
-|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-10-26   |
-|  5 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-10-26   |
-|  6 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-10-27   |
-|  7 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-10-26   |
-|  8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-10-26   |
-|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-10-26   |
-| 10 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-10-26   |
+|  1 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-10-16   |
+|  2 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-10-27   |
+|  3 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-10-25   |
+|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-10-27   |
+|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-10-27   |
+|  6 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-10-28   |
+|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python   | 2021-10-27   |
+|  8 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
+|  9 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | md       | 2021-10-27   |
+| 10 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-10-27   |
 
 <!--END_SECTION:my_github-->
