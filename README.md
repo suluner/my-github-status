@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-10-28   |
-|  2 | [jina](https://github.com/jina-ai/jina)                                               | 2021-09-07 | Python   | 2021-10-28   |
-|  3 | [darknet](https://github.com/pjreddie/darknet)                                        | 2017-03-17 | C        | 2021-10-28   |
-|  4 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-10-28   |
-|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-10-28   |
-|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-10-28   |
-|  7 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-10-28   |
-|  8 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-10-28   |
-|  9 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-10-28   |
-| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                    | 2021-08-05 | HTML     | 2021-10-28   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-29   |
+|  2 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-10-29   |
+|  3 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | md       | 2021-10-29   |
+|  4 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-10-29   |
+|  5 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-10-29   |
+|  6 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-10-29   |
+|  7 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2021-10-29   |
+|  8 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-10-30   |
+|  9 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-10-29   |
+| 10 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2021-10-29   |
 
 <!--END_SECTION:my_github-->
