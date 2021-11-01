@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | md       | 2021-10-30   |
-|  2 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-10-30   |
-|  3 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-10-30   |
-|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-10-29   |
-|  5 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-10-31   |
-|  6 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-10-31   |
-|  7 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-10-30   |
-|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python   | 2021-10-30   |
-|  9 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-10-29   |
-| 10 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-10-31   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-10-31   |
+|  2 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2021-10-31   |
+|  3 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-11-01   |
+|  4 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-10-29   |
+|  5 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-11-01   |
+|  6 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-10-29   |
+|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-11-01   |
+|  8 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2021-10-31   |
+|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-10-31   |
+| 10 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2021-11-01   |
 
 <!--END_SECTION:my_github-->
