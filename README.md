@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-11-03   |
-|  2 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-11-02   |
-|  3 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-11-02   |
-|  4 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2021-11-02   |
-|  5 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2021-11-02   |
-|  6 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | md       | 2021-11-02   |
-|  7 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2021-11-02   |
-|  8 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-11-02   |
-|  9 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-10-29   |
-| 10 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-11-02   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-11-03   |
+|  2 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-11-03   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-11-02   |
+|  4 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-11-03   |
+|  5 | [darknet](https://github.com/pjreddie/darknet)                                        | 2017-03-17 | C        | 2021-11-03   |
+|  6 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-11-03   |
+|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-11-03   |
+|  8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-11-03   |
+|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-11-03   |
+| 10 | [DesignPattern](https://github.com/suluner/DesignPattern)                             | 2020-07-26 | Java     | 2020-10-10   |
 
 <!--END_SECTION:my_github-->
