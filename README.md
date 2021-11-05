@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-11-03   |
-|  2 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-11-03   |
-|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-11-02   |
-|  4 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-11-03   |
-|  5 | [darknet](https://github.com/pjreddie/darknet)                                        | 2017-03-17 | C        | 2021-11-03   |
-|  6 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-11-03   |
-|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-11-03   |
-|  8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-11-03   |
-|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-11-03   |
-| 10 | [DesignPattern](https://github.com/suluner/DesignPattern)                             | 2020-07-26 | Java     | 2020-10-10   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python     | 2021-09-05   |
+|  2 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python     | 2021-11-04   |
+|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS        | 2021-11-04   |
+|  4 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                    | 2021-08-05 | HTML       | 2021-11-04   |
+|  5 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python     | 2021-11-05   |
+|  6 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2021-11-04   |
+|  7 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java       | 2020-08-25   |
+|  8 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)  | 2021-08-27 | JavaScript | 2021-11-04   |
+|  9 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++        | 2021-11-04   |
+| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                       | 2021-08-30 | Python     | 2021-10-29   |
 
 <!--END_SECTION:my_github-->
