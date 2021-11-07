@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2021-11-03   |
-|  2 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-11-05   |
-|  3 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | md         | 2021-11-05   |
-|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2021-11-05   |
-|  5 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-11-05   |
-|  6 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-11-05   |
-|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-11-05   |
-|  8 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2021-11-05   |
-|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-11-05   |
-| 10 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2021-11-05   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                 | 2021-03-02 | Python   | 2021-11-06   |
+|  2 | [training](https://github.com/mlcommons/training)                               | 2021-08-30 | Python   | 2021-11-04   |
+|  3 | [taichi](https://github.com/taichi-dev/taichi)                                  | 2020-01-15 | C++      | 2021-11-07   |
+|  4 | [darknet](https://github.com/pjreddie/darknet)                                  | 2017-03-17 | C        | 2021-11-06   |
+|  5 | [tf_repos](https://github.com/lambdaji/tf_repos)                                | 2021-04-20 | Python   | 2021-11-03   |
+|  6 | [algorithms](https://github.com/xtaci/algorithms)                               | 2021-01-17 | C++      | 2021-11-05   |
+|  7 | [Notes](https://github.com/suluner/Notes)                                       | 2020-08-25 | Java     | 2020-08-25   |
+|  8 | [iree](https://github.com/google/iree)                                          | 2021-11-05 | C++      | 2021-11-06   |
+|  9 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)          | 2020-09-04 | md       | 2021-11-07   |
+| 10 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 2021-07-27 | Python   | 2021-11-06   |
 
 <!--END_SECTION:my_github-->
