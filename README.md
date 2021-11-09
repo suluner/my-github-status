@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-11-07   |
-|  2 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-11-08   |
-|  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-10-29   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-11-07   |
-|  5 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-09-05   |
-|  6 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  7 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
-|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2021-11-07   |
-|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-11-07   |
-| 10 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-11-07   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-11-08   |
+|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-11-08   |
+|  3 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-11-08   |
+|  4 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-11-09   |
+|  5 | [iree](https://github.com/google/iree)                                                | 2021-11-05 | C++      | 2021-11-08   |
+|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-11-08   |
+|  7 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-11-04   |
+|  8 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-11-08   |
+|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-11-08   |
+| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-11-08   |
 
 <!--END_SECTION:my_github-->
