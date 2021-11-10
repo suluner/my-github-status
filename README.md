@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-11-08   |
-|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-11-08   |
-|  3 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-11-08   |
-|  4 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-11-09   |
-|  5 | [iree](https://github.com/google/iree)                                                | 2021-11-05 | C++      | 2021-11-08   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-11-08   |
-|  7 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-11-04   |
-|  8 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-11-08   |
-|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-11-08   |
-| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-11-08   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-11-09   |
+|  2 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++        | 2021-11-09   |
+|  3 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-11-10   |
+|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-11-09   |
+|  6 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-11-09   |
+|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-11-09   |
+|  8 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2021-11-09   |
+|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2021-11-09   |
+| 10 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
 
 <!--END_SECTION:my_github-->
