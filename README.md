@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-11-09   |
-|  2 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++        | 2021-11-09   |
-|  3 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-11-10   |
-|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-11-09   |
-|  6 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-11-09   |
-|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-11-09   |
-|  8 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2021-11-09   |
-|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2021-11-09   |
-| 10 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+|  1 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-11-10   |
+|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2021-11-10   |
+|  3 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-11-11   |
+|  4 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2021-11-10   |
+|  5 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-11-10   |
+|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-11-10   |
+|  7 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2021-11-08   |
+|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2021-11-10   |
+|  9 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-11-09   |
+| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-11-10   |
 
 <!--END_SECTION:my_github-->
