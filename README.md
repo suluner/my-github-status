@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2021-11-12   |
-|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-11-11   |
-|  3 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-11-09   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                       | 2019-04-03 | Rust     | 2021-11-11   |
-|  5 | [tvm](https://github.com/tqchen/tvm)                                               | 2020-08-22 | Python   | 2021-09-05   |
-|  6 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
-|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)    | 2021-07-27 | Python   | 2021-11-11   |
-|  8 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | md       | 2021-11-12   |
-|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-11-12   |
-| 10 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2021-11-11   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-11-12   |
+|  2 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-11-13   |
+|  3 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-11-13   |
+|  4 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2021-11-12   |
+|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-11-12   |
+|  6 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2021-11-12   |
+|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-11-12   |
+|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-11-12   |
+|  9 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2021-11-12   |
+| 10 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-11-12   |
 
 <!--END_SECTION:my_github-->
