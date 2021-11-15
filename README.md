@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-11-13   |
-|  2 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-11-13   |
-|  3 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2021-11-12   |
-|  4 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-11-14   |
-|  5 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-11-13   |
-|  6 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2021-11-14   |
-|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-11-13   |
-|  8 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
-|  9 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-11-13   |
-| 10 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2021-11-12   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [taichi](https://github.com/taichi-dev/taichi)                 | 2020-01-15 | C++      | 2021-11-15   |
+|  2 | [Python](https://github.com/TheAlgorithms/Python)              | 2020-05-22 | Python   | 2021-11-14   |
+|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress) | 2018-06-27 | Python   | 2021-11-14   |
+|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)      | 2020-07-26 | Java     | 2020-10-10   |
+|  5 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                | 2021-08-30 | Python   | 2021-11-12   |
+|  6 | [tvm](https://github.com/apache/tvm)                           | 2018-03-27 | Python   | 2021-11-14   |
+|  7 | [folly](https://github.com/facebook/folly)                     | 2021-08-27 | C++      | 2021-11-14   |
+|  8 | [night](https://github.com/talkgo/night)                       | 2020-06-05 | Go       | 2021-11-14   |
+|  9 | [algorithms](https://github.com/xtaci/algorithms)              | 2021-01-17 | C++      | 2021-11-14   |
+| 10 | [training](https://github.com/mlcommons/training)              | 2021-08-30 | Python   | 2021-11-14   |
 
 <!--END_SECTION:my_github-->
