@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [taichi](https://github.com/taichi-dev/taichi)                 | 2020-01-15 | C++      | 2021-11-15   |
-|  2 | [Python](https://github.com/TheAlgorithms/Python)              | 2020-05-22 | Python   | 2021-11-14   |
-|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress) | 2018-06-27 | Python   | 2021-11-14   |
-|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)      | 2020-07-26 | Java     | 2020-10-10   |
-|  5 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                | 2021-08-30 | Python   | 2021-11-12   |
-|  6 | [tvm](https://github.com/apache/tvm)                           | 2018-03-27 | Python   | 2021-11-14   |
-|  7 | [folly](https://github.com/facebook/folly)                     | 2021-08-27 | C++      | 2021-11-14   |
-|  8 | [night](https://github.com/talkgo/night)                       | 2020-06-05 | Go       | 2021-11-14   |
-|  9 | [algorithms](https://github.com/xtaci/algorithms)              | 2021-01-17 | C++      | 2021-11-14   |
-| 10 | [training](https://github.com/mlcommons/training)              | 2021-08-30 | Python   | 2021-11-14   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2021-11-12   |
+|  2 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-11-16   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-11-14   |
+|  4 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2021-11-15   |
+|  5 | [folly](https://github.com/facebook/folly)                                         | 2021-08-27 | C++      | 2021-11-15   |
+|  6 | [BentoML](https://github.com/bentoml/BentoML)                                      | 2021-08-20 | Python   | 2021-11-15   |
+|  7 | [iree](https://github.com/google/iree)                                             | 2021-11-05 | C++      | 2021-11-16   |
+|  8 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-11-15   |
+|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
+| 10 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
 
 <!--END_SECTION:my_github-->
