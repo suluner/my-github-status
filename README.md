@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-11-18   |
-|  2 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
-|  3 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-11-17   |
-|  4 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-11-17   |
-|  6 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-11-18   |
-|  7 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-11-12   |
-|  8 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-11-17   |
-|  9 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2021-11-16   |
-| 10 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-11-18   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-11-18   |
+|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2021-11-16   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-11-18   |
+|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
+|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2021-11-19   |
+|  6 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | md       | 2021-11-19   |
+|  7 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-11-18   |
+|  8 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-11-18   |
+|  9 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-11-18   |
+| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-11-18   |
 
 <!--END_SECTION:my_github-->
