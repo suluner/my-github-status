@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-11-18   |
-|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2021-11-16   |
-|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-11-18   |
-|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
-|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2021-11-19   |
-|  6 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | md       | 2021-11-19   |
-|  7 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-11-18   |
-|  8 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-11-18   |
-|  9 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-11-18   |
-| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-11-18   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [jina](https://github.com/jina-ai/jina)                                               | 2021-09-07 | Python   | 2021-11-19   |
+|  2 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-11-19   |
+|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-11-19   |
+|  4 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-11-19   |
+|  5 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-11-19   |
+|  6 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-11-20   |
+|  7 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-11-20   |
+|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                        | 2018-06-27 | Python   | 2021-11-19   |
+|  9 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | md       | 2021-11-20   |
+| 10 | [BentoML](https://github.com/bentoml/BentoML)                                         | 2021-08-20 | Python   | 2021-11-19   |
 
 <!--END_SECTION:my_github-->
