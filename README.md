@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-11-23   |
-|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2021-11-16   |
-|  3 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-11-23   |
-|  4 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
-|  5 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-11-22   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2021-11-22   |
-|  7 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-11-22   |
-|  8 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-11-12   |
-|  9 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2021-11-22   |
-| 10 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-11-22   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go         | 2021-11-23   |
+|  2 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python     | 2021-11-17   |
+|  3 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python     | 2021-11-23   |
+|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust       | 2021-11-23   |
+|  5 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++        | 2021-11-23   |
+|  6 | [darknet](https://github.com/pjreddie/darknet)                                        | 2017-03-17 | C          | 2021-11-23   |
+|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2021-11-23   |
+|  8 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)  | 2021-08-27 | JavaScript | 2021-11-24   |
+|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                       | 2021-08-30 | Python     | 2021-11-12   |
+| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md         | 2021-11-23   |
 
 <!--END_SECTION:my_github-->
