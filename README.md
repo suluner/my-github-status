@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go         | 2021-11-23   |
-|  2 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python     | 2021-11-17   |
-|  3 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python     | 2021-11-23   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust       | 2021-11-23   |
-|  5 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++        | 2021-11-23   |
-|  6 | [darknet](https://github.com/pjreddie/darknet)                                        | 2017-03-17 | C          | 2021-11-23   |
-|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2021-11-23   |
-|  8 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)  | 2021-08-27 | JavaScript | 2021-11-24   |
-|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                       | 2021-08-30 | Python     | 2021-11-12   |
-| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md         | 2021-11-23   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2021-11-24   |
+|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2021-11-25   |
+|  3 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-11-24   |
+|  4 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++        | 2021-11-24   |
+|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-11-24   |
+|  6 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+|  7 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | md         | 2021-11-24   |
+|  8 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2021-11-24   |
+|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-11-24   |
+| 10 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-11-25   |
 
 <!--END_SECTION:my_github-->
