@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                       REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/apache/tvm)              | 2018-03-27 | Python   | 2021-11-26   |
-|  2 | [tvm](https://github.com/tqchen/tvm)              | 2020-08-22 | Python   | 2021-11-17   |
-|  3 | [Python](https://github.com/TheAlgorithms/Python) | 2020-05-22 | Python   | 2021-11-26   |
-|  4 | [jina](https://github.com/jina-ai/jina)           | 2021-09-07 | Python   | 2021-11-26   |
-|  5 | [Notes](https://github.com/suluner/Notes)         | 2020-08-25 | Java     | 2020-08-25   |
-|  6 | [night](https://github.com/talkgo/night)          | 2020-06-05 | Go       | 2021-11-26   |
-|  7 | [BentoML](https://github.com/bentoml/BentoML)     | 2021-08-20 | Python   | 2021-11-26   |
-|  8 | [darknet](https://github.com/pjreddie/darknet)    | 2017-03-17 | C        | 2021-11-26   |
-|  9 | [iree](https://github.com/google/iree)            | 2021-11-05 | C++      | 2021-11-26   |
-| 10 | [folly](https://github.com/facebook/folly)        | 2021-08-27 | C++      | 2021-11-26   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
+|  2 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-11-28   |
+|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-11-26   |
+|  4 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2021-11-27   |
+|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-11-27   |
+|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-11-28   |
+|  7 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
+|  8 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-11-25   |
+|  9 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | md       | 2021-11-27   |
+| 10 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-11-28   |
 
 <!--END_SECTION:my_github-->
