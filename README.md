@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
-|  2 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-11-28   |
-|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2021-11-26   |
-|  4 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2021-11-27   |
-|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-11-27   |
-|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-11-28   |
-|  7 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  8 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-11-25   |
-|  9 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | md       | 2021-11-27   |
-| 10 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-11-28   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md         | 2021-11-28   |
+|  2 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++        | 2021-11-28   |
+|  3 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md         | 2021-11-29   |
+|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md         | 2021-11-28   |
+|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2021-11-28   |
+|  6 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python     | 2021-11-28   |
+|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2021-11-28   |
+|  8 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go         | 2021-11-28   |
+|  9 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python     | 2021-11-29   |
+| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python     | 2021-11-12   |
 
 <!--END_SECTION:my_github-->
