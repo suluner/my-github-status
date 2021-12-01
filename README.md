@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2021-11-29   |
-|  2 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | md         | 2021-11-30   |
-|  3 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-11-29   |
-|  4 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-11-29   |
-|  5 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-11-29   |
-|  6 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++        | 2021-11-29   |
-|  7 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
-|  8 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2021-11-30   |
-|  9 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-11-29   |
-| 10 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-11-29   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python     | 2021-12-01   |
+|  2 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python     | 2021-12-01   |
+|  3 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2021-11-30   |
+|  4 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python     | 2021-11-30   |
+|  5 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2021-12-01   |
+|  6 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python     | 2021-11-17   |
+|  7 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2021-11-30   |
+|  8 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2021-11-30   |
+|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python     | 2021-11-12   |
+| 10 | [iree](https://github.com/google/iree)                                                    | 2021-11-05 | C++        | 2021-12-01   |
 
 <!--END_SECTION:my_github-->
