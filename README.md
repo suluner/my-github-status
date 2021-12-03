@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
-|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-12-01   |
-|  3 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-11-30   |
-|  4 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-12-02   |
-|  5 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-12-01   |
-|  6 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-12-01   |
-|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-01   |
-|  8 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-12-01   |
-|  9 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-12-01   |
-| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                    | 2021-08-05 | HTML     | 2021-12-01   |
+|  1 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-02   |
+|  2 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-12-02   |
+|  3 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-12-02   |
+|  4 | [algorithms](https://github.com/xtaci/algorithms)                                     | 2021-01-17 | C++      | 2021-12-02   |
+|  5 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-11-30   |
+|  6 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-11-17   |
+|  7 | [DesignPattern](https://github.com/suluner/DesignPattern)                             | 2020-07-26 | Java     | 2020-10-10   |
+|  8 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-04-03 | Rust     | 2021-12-02   |
+|  9 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-12-03   |
+| 10 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)       | 2021-07-27 | Python   | 2021-12-03   |
 
 <!--END_SECTION:my_github-->
