@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [iree](https://github.com/google/iree)                                          | 2021-11-05 | C++      | 2021-12-03   |
-|  2 | [tvm](https://github.com/tqchen/tvm)                                            | 2020-08-22 | Python   | 2021-11-17   |
-|  3 | [taichi](https://github.com/taichi-dev/taichi)                                  | 2020-01-15 | C++      | 2021-12-05   |
-|  4 | [BentoML](https://github.com/bentoml/BentoML)                                   | 2021-08-20 | Python   | 2021-12-05   |
-|  5 | [Python](https://github.com/TheAlgorithms/Python)                               | 2020-05-22 | Python   | 2021-12-05   |
-|  6 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)            | 2020-07-29 | md       | 2021-12-05   |
-|  7 | [996.ICU](https://github.com/996icu/996.ICU)                                    | 2019-04-03 | Rust     | 2021-12-05   |
-|  8 | [darknet](https://github.com/pjreddie/darknet)                                  | 2017-03-17 | C        | 2021-12-05   |
-|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 2021-07-27 | Python   | 2021-12-06   |
-| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                 | 2021-08-30 | Python   | 2021-11-12   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-11-12   |
+|  2 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)     | 2020-01-15 | Java     | 2021-12-06   |
+|  3 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
+|  4 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-12-07   |
+|  5 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
+|  6 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-12-06   |
+|  7 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-12-06   |
+|  8 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2021-11-29   |
+|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-12-06   |
+| 10 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-12-07   |
 
 <!--END_SECTION:my_github-->
