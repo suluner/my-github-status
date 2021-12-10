@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-12-08   |
-|  3 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2021-12-08   |
-|  4 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2021-12-08   |
-|  5 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2021-12-08   |
-|  6 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2021-12-08   |
-|  7 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2021-12-08   |
-|  8 | [iree](https://github.com/google/iree)                                                    | 2021-11-05 | C++      | 2021-12-08   |
-|  9 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-12-08   |
-| 10 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | md       | 2021-12-08   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-09   |
+|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-12-09   |
+|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-12-09   |
+|  4 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-11-12   |
+|  5 | [Python](https://github.com/TheAlgorithms/Python)                                  | 2020-05-22 | Python   | 2021-12-09   |
+|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-08   |
+|  7 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-12-10   |
+|  8 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-09   |
+|  9 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-12-09   |
+| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                       | 2019-04-03 | Rust     | 2021-12-09   |
 
 <!--END_SECTION:my_github-->
