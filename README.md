@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-09   |
-|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-12-09   |
-|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-12-09   |
-|  4 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-11-12   |
-|  5 | [Python](https://github.com/TheAlgorithms/Python)                                  | 2020-05-22 | Python   | 2021-12-09   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-08   |
-|  7 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-12-10   |
-|  8 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-09   |
-|  9 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-12-09   |
-| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                       | 2019-04-03 | Rust     | 2021-12-09   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-12-10   |
+|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2021-12-10   |
+|  3 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-12-10   |
+|  4 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2021-12-10   |
+|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python     | 2021-12-10   |
+|  6 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+|  7 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2021-12-10   |
+|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-12-10   |
+|  9 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+| 10 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-12-10   |
 
 <!--END_SECTION:my_github-->
