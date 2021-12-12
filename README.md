@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-12-10   |
-|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2021-12-10   |
-|  3 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2021-12-10   |
-|  4 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2021-12-10   |
-|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python     | 2021-12-10   |
-|  6 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  7 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2021-12-10   |
-|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2021-12-10   |
-|  9 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
-| 10 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-12-10   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-12-11   |
+|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
+|  3 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-12-11   |
+|  4 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-12-11   |
+|  5 | [folly](https://github.com/facebook/folly)                                         | 2021-08-27 | C++      | 2021-12-11   |
+|  6 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-11   |
+|  7 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
+|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-11   |
+|  9 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2021-12-07   |
+| 10 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-11   |
 
 <!--END_SECTION:my_github-->
