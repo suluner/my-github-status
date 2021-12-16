@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-12-15   |
-|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-12-14   |
-|  3 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2021-12-14   |
-|  4 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2021-12-12   |
-|  5 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2021-12-14   |
-|  6 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  7 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
-|  8 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2021-12-15   |
-|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2021-12-14   |
-| 10 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | Markdown | 2021-12-15   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-12-15   |
+|  2 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-16   |
+|  3 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | Markdown | 2021-12-16   |
+|  4 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-12-16   |
+|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                | 2020-09-04 | md       | 2021-12-16   |
+|  6 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-12-15   |
+|  7 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-12-14   |
+|  8 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-12-15   |
+|  9 | [jina](https://github.com/jina-ai/jina)                                               | 2021-09-07 | Python   | 2021-12-15   |
+| 10 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                       | 2021-08-30 | Python   | 2021-12-15   |
 
 <!--END_SECTION:my_github-->
