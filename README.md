@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2021-12-14   |
-|  2 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2021-12-16   |
-|  3 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2021-12-16   |
-|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  5 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2021-12-16   |
-|  6 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-12-16   |
-|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-12-16   |
-|  8 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-12-16   |
-|  9 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2021-12-16   |
-| 10 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-12-16   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-12-18   |
+|  2 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-18   |
+|  3 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
+|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2021-12-18   |
+|  5 | [tvm](https://github.com/tqchen/tvm)                                               | 2020-08-22 | Python   | 2021-11-17   |
+|  6 | [ray](https://github.com/ray-project/ray)                                          | 2021-01-07 | Python   | 2021-12-18   |
+|  7 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-12-18   |
+|  8 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-12-18   |
+|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-18   |
+| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-12-18   |
 
 <!--END_SECTION:my_github-->
