@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-12-18   |
-|  2 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-18   |
-|  3 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
-|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2021-12-18   |
-|  5 | [tvm](https://github.com/tqchen/tvm)                                               | 2020-08-22 | Python   | 2021-11-17   |
-|  6 | [ray](https://github.com/ray-project/ray)                                          | 2021-01-07 | Python   | 2021-12-18   |
-|  7 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-12-18   |
-|  8 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-12-18   |
-|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-18   |
-| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2021-12-18   |
+|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-12-18   |
+|  2 | [iree](https://github.com/google/iree)                                             | 2021-11-05 | C++      | 2021-12-19   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-18   |
+|  4 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-19   |
+|  5 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-12-19   |
+|  6 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
+|  7 | [algorithms](https://github.com/xtaci/algorithms)                                  | 2021-01-17 | C++      | 2021-12-19   |
+|  8 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-12-18   |
+|  9 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-12-19   |
+| 10 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-19   |
 
 <!--END_SECTION:my_github-->
