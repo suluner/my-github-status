@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python     | 2021-12-20   |
-|  2 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2021-12-20   |
-|  3 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2021-12-21   |
-|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md         | 2021-12-18   |
-|  5 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
-|  6 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python     | 2021-12-21   |
-|  7 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python     | 2021-12-12   |
-|  8 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python     | 2021-12-20   |
-|  9 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2021-12-18   |
-| 10 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go         | 2021-12-20   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-12-21   |
+|  2 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-12-21   |
+|  3 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-11-17   |
+|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-12-21   |
+|  5 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-12-21   |
+|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-12-21   |
+|  7 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
+|  8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-12-21   |
+|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-12-21   |
+| 10 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-22   |
 
 <!--END_SECTION:my_github-->
