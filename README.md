@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [folly](https://github.com/facebook/folly)                                            | 2021-08-27 | C++      | 2021-12-21   |
-|  2 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-12-21   |
-|  3 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-11-17   |
-|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-12-21   |
-|  5 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-12-21   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)    | 2021-08-27 | md       | 2021-12-21   |
-|  7 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
-|  8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-12-21   |
-|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-12-21   |
-| 10 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-22   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-12-22   |
+|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-12-22   |
+|  3 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-22   |
+|  4 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-12-22   |
+|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                       | 2019-04-03 | Rust     | 2021-12-22   |
+|  6 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-22   |
+|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-12-22   |
+|  8 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | Markdown | 2021-12-23   |
+|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-12-22   |
+| 10 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2021-12-22   |
 
 <!--END_SECTION:my_github-->
