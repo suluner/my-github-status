@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-12-22   |
-|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-03-01 | CSS      | 2021-12-22   |
-|  3 | [night](https://github.com/talkgo/night)                                           | 2020-06-05 | Go       | 2021-12-22   |
-|  4 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2021-12-22   |
-|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                       | 2019-04-03 | Rust     | 2021-12-22   |
-|  6 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-22   |
-|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-12-22   |
-|  8 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | Markdown | 2021-12-23   |
-|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2021-12-22   |
-| 10 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2021-12-22   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
+|  2 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-12-23   |
+|  3 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-12-23   |
+|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | Markdown | 2021-12-23   |
+|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-12-23   |
+|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-12-23   |
+|  7 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-12-22   |
+|  8 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-12-23   |
+|  9 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-12-23   |
+| 10 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-12-24   |
 
 <!--END_SECTION:my_github-->
