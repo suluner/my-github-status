@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
-|  2 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2021-12-23   |
-|  3 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2021-12-23   |
-|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | Markdown | 2021-12-23   |
-|  5 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2021-12-23   |
-|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2021-12-23   |
-|  7 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2021-12-22   |
-|  8 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2021-12-23   |
-|  9 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2021-12-23   |
-| 10 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2021-12-24   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-12-24   |
+|  2 | [Python](https://github.com/TheAlgorithms/Python)                                  | 2020-05-22 | Python   | 2021-12-25   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-24   |
+|  4 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-12-22   |
+|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2021-12-25   |
+|  6 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2021-12-24   |
+|  7 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-24   |
+|  8 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-12-25   |
+|  9 | [BentoML](https://github.com/bentoml/BentoML)                                      | 2021-08-20 | Python   | 2021-12-24   |
+| 10 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-12-24   |
 
 <!--END_SECTION:my_github-->
