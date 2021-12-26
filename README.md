@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2021-12-24   |
-|  2 | [Python](https://github.com/TheAlgorithms/Python)                                  | 2020-05-22 | Python   | 2021-12-25   |
-|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2021-12-24   |
-|  4 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2021-12-22   |
-|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2021-12-25   |
-|  6 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2021-12-24   |
-|  7 | [darknet](https://github.com/pjreddie/darknet)                                     | 2017-03-17 | C        | 2021-12-24   |
-|  8 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2021-12-25   |
-|  9 | [BentoML](https://github.com/bentoml/BentoML)                                      | 2021-08-20 | Python   | 2021-12-24   |
-| 10 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2021-12-24   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-12-26   |
+|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-12-12   |
+|  3 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-11-17   |
+|  4 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-25   |
+|  5 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-12-25   |
+|  6 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-12-25   |
+|  7 | [jina](https://github.com/jina-ai/jina)                                               | 2021-09-07 | Python   | 2021-12-25   |
+|  8 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
+|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-12-26   |
+| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-12-25   |
 
 <!--END_SECTION:my_github-->
