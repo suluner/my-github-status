@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Python](https://github.com/TheAlgorithms/Python)                                     | 2020-05-22 | Python   | 2021-12-26   |
-|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                      | 2021-04-20 | Python   | 2021-12-12   |
-|  3 | [tvm](https://github.com/tqchen/tvm)                                                  | 2020-08-22 | Python   | 2021-11-17   |
-|  4 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-25   |
-|  5 | [training](https://github.com/mlcommons/training)                                     | 2021-08-30 | Python   | 2021-12-25   |
-|  6 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-12-25   |
-|  7 | [jina](https://github.com/jina-ai/jina)                                               | 2021-09-07 | Python   | 2021-12-25   |
-|  8 | [Notes](https://github.com/suluner/Notes)                                             | 2020-08-25 | Java     | 2020-08-25   |
-|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                       | 2021-03-02 | Python   | 2021-12-26   |
-| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)        | 2021-01-11 | md       | 2021-12-25   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-12-26   |
+|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+|  3 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2021-12-27   |
+|  4 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-12-26   |
+|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2021-12-26   |
+|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-12-26   |
+|  7 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-12-26   |
+|  8 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-12-26   |
+|  9 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-12-26   |
+| 10 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown   | 2021-12-27   |
 
 <!--END_SECTION:my_github-->
