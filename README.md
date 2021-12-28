@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2021-12-26   |
-|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  3 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2021-12-27   |
-|  4 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2021-12-26   |
-|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2021-12-26   |
-|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2021-12-26   |
-|  7 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2021-12-26   |
-|  8 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2021-12-26   |
-|  9 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2021-12-26   |
-| 10 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown   | 2021-12-27   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                  | 2020-07-29 | Markdown | 2021-12-27   |
+|  2 | [night](https://github.com/talkgo/night)                                              | 2020-06-05 | Go       | 2021-12-27   |
+|  3 | [tvm](https://github.com/apache/tvm)                                                  | 2018-03-27 | Python   | 2021-12-27   |
+|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)    | 2018-03-01 | CSS      | 2021-12-27   |
+|  5 | [taichi](https://github.com/taichi-dev/taichi)                                        | 2020-01-15 | C++      | 2021-12-27   |
+|  6 | [ray](https://github.com/ray-project/ray)                                             | 2021-01-07 | Python   | 2021-12-27   |
+|  7 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2021-12-27   |
+|  8 | [kubesphere](https://github.com/kubesphere/kubesphere)                                | 2021-02-01 | Go       | 2021-12-27   |
+|  9 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                    | 2021-08-05 | HTML     | 2021-12-27   |
+| 10 | [BentoML](https://github.com/bentoml/BentoML)                                         | 2021-08-20 | Python   | 2021-12-27   |
 
 <!--END_SECTION:my_github-->
