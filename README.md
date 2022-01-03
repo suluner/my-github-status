@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
-|  2 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-01-01   |
-|  3 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2021-12-31   |
-|  4 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-01-01   |
-|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md       | 2022-01-02   |
-|  6 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-01-01   |
-|  7 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md       | 2022-01-01   |
-|  8 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-01   |
-|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
-| 10 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python   | 2021-11-17   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2022-01-02   |
+|  3 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-01-02   |
+|  4 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2021-12-31   |
+|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2022-01-02   |
+|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-01-02   |
+|  7 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-01-02   |
+|  8 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2022-01-03   |
+|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2022-01-02   |
+| 10 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
 
 <!--END_SECTION:my_github-->
