@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
-|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2022-01-02   |
-|  3 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-01-02   |
-|  4 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2021-12-31   |
-|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2022-01-02   |
-|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-01-02   |
-|  7 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-01-02   |
-|  8 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2022-01-03   |
-|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2022-01-02   |
-| 10 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-01-03   |
+|  2 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++        | 2022-01-02   |
+|  3 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python     | 2022-01-04   |
+|  4 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-01-03   |
+|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-01-03   |
+|  6 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2022-01-03   |
+|  7 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python     | 2021-12-30   |
+|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML       | 2022-01-03   |
+|  9 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2022-01-03   |
+| 10 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java       | 2022-01-03   |
 
 <!--END_SECTION:my_github-->
