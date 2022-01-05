@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-01-03   |
-|  2 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++        | 2022-01-02   |
-|  3 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python     | 2022-01-04   |
-|  4 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-01-03   |
-|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-01-03   |
-|  6 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2022-01-03   |
+|  1 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python     | 2022-01-04   |
+|  2 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)      | 2021-12-26 | md         | 2022-01-04   |
+|  3 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-01-04   |
+|  4 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python     | 2022-01-04   |
+|  5 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C          | 2022-01-04   |
+|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-01-04   |
 |  7 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python     | 2021-12-30   |
-|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML       | 2022-01-03   |
-|  9 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2022-01-03   |
-| 10 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java       | 2022-01-03   |
+|  8 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust       | 2022-01-04   |
+|  9 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python     | 2022-01-04   |
+| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md         | 2022-01-04   |
 
 <!--END_SECTION:my_github-->
