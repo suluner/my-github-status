@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2022-01-05   |
-|  2 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2022-01-05   |
-|  3 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2022-01-04   |
-|  4 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-01-05   |
-|  5 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2022-01-06   |
-|  6 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2022-01-05   |
-|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2022-01-05   |
-|  8 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-01-06   |
-|  9 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2022-01-05   |
-| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | Rust     | 2022-01-05   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python   | 2022-01-06   |
+|  2 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-01-06   |
+|  3 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-06   |
+|  4 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML     | 2022-01-06   |
+|  5 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++      | 2022-01-06   |
+|  6 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-06   |
+|  7 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C        | 2022-01-06   |
+|  8 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python   | 2021-11-17   |
+|  9 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-01-07   |
+| 10 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python   | 2022-01-06   |
 
 <!--END_SECTION:my_github-->
