@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python   | 2022-01-06   |
-|  2 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-01-06   |
-|  3 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-06   |
-|  4 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML     | 2022-01-06   |
-|  5 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++      | 2022-01-06   |
-|  6 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-06   |
-|  7 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C        | 2022-01-06   |
-|  8 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python   | 2021-11-17   |
-|  9 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-01-07   |
-| 10 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python   | 2022-01-06   |
+|  1 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md       | 2022-01-07   |
+|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python   | 2021-12-31   |
+|  3 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-01-06   |
+|  4 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-07   |
+|  5 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
+|  6 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python   | 2022-01-07   |
+|  7 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python   | 2022-01-08   |
+|  8 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-01-07   |
+|  9 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go       | 2022-01-07   |
+| 10 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-01-07   |
 
 <!--END_SECTION:my_github-->
