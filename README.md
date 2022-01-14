@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md         | 2022-01-12   |
-|  2 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2022-01-12   |
-|  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python     | 2022-01-11   |
-|  4 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2022-01-12   |
-|  5 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++        | 2022-01-12   |
-|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2022-01-12   |
-|  7 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2022-01-13   |
-|  8 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-01-12   |
-|  9 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2022-01-12   |
-| 10 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [iree](https://github.com/google/iree)                                                    | 2021-11-05 | C++        | 2022-01-13   |
+|  2 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C          | 2022-01-13   |
+|  3 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2022-01-13   |
+|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md         | 2022-01-13   |
+|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-01-13   |
+|  6 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-01-13   |
+|  7 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-01-13   |
+|  8 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python     | 2022-01-13   |
+|  9 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python     | 2022-01-13   |
+| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md         | 2022-01-13   |
 
 <!--END_SECTION:my_github-->
