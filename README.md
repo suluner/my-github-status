@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown | 2022-01-15   |
-|  2 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python   | 2022-01-14   |
-|  3 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python   | 2022-01-15   |
-|  4 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-14   |
-|  5 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-14   |
-|  6 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS      | 2022-01-14   |
-|  7 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
-|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-01-14   |
-|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md       | 2022-01-13   |
-| 10 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-01-13   |
+|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
+|  2 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-01-15   |
+|  3 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-01-15   |
+|  4 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-15   |
+|  5 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C        | 2022-01-15   |
+|  6 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust     | 2022-01-15   |
+|  7 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-01-15   |
+|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-01-15   |
+|  9 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python   | 2022-01-16   |
+| 10 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-01-14   |
 
 <!--END_SECTION:my_github-->
