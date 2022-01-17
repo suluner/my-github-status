@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
-|  2 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-01-15   |
-|  3 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-01-15   |
-|  4 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-15   |
-|  5 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C        | 2022-01-15   |
-|  6 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust     | 2022-01-15   |
-|  7 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-01-15   |
-|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-01-15   |
-|  9 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python   | 2022-01-16   |
-| 10 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-01-14   |
+|  1 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-01-16   |
+|  2 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-01-15   |
+|  3 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-16   |
+|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go       | 2022-01-16   |
+|  5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-01-17   |
+|  6 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-01-16   |
+|  7 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-17   |
+|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md       | 2022-01-16   |
+|  9 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
+| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md       | 2022-01-16   |
 
 <!--END_SECTION:my_github-->
