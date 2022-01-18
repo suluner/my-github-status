@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-01-16   |
-|  2 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-01-15   |
-|  3 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-16   |
-|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go       | 2022-01-16   |
-|  5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-01-17   |
-|  6 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-01-16   |
-|  7 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-17   |
-|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md       | 2022-01-16   |
-|  9 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
-| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md       | 2022-01-16   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-01-18   |
+|  2 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2022-01-17   |
+|  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2022-01-13   |
+|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-01-17   |
+|  5 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2022-01-17   |
+|  6 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2022-01-18   |
+|  7 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2022-01-17   |
+|  8 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | C        | 2022-01-18   |
+|  9 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2022-01-17   |
+| 10 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-01-17   |
 
 <!--END_SECTION:my_github-->
