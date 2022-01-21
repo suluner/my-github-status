@@ -27,15 +27,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-01-20   |
-|  2 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2022-01-18   |
-|  3 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2022-01-19   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2022-01-19   |
-|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2022-01-19   |
-|  6 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2022-01-19   |
-|  7 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-01-19   |
-|  8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2022-01-20   |
-|  9 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-01-19   |
-| 10 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2022-01-19   |
+|  1 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2022-01-20   |
+|  2 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2022-01-20   |
+|  3 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2022-01-20   |
+|  4 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2022-01-21   |
+|  5 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++        | 2022-01-19   |
+|  6 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-01-20   |
+|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-01-20   |
+|  8 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2022-01-19   |
+|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | Rust       | 2022-01-20   |
+| 10 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2022-01-20   |
 
 <!--END_SECTION:my_github-->
