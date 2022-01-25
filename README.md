@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/tqchen/tvm)                                            | 2020-08-22 | Python   | 2021-11-17   |
-|  2 | [America-Against-America](https://github.com/zealotCE/America-Against-America)  | 2021-01-11 | md       | 2022-01-23   |
-|  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                 | 2021-08-30 | Python   | 2022-01-19   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                    | 2019-04-03 | Rust     | 2022-01-23   |
-|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                 | 2021-03-02 | Python   | 2022-01-24   |
-|  6 | [taichi](https://github.com/taichi-dev/taichi)                                  | 2020-01-15 | C++      | 2022-01-23   |
-|  7 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)              | 2021-08-05 | HTML     | 2022-01-23   |
-|  8 | [DesignPattern](https://github.com/suluner/DesignPattern)                       | 2020-07-26 | Java     | 2020-10-10   |
-|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 2021-07-27 | Python   | 2022-01-24   |
-| 10 | [Notes](https://github.com/suluner/Notes)                                       | 2020-08-25 | Java     | 2020-08-25   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-01-24   |
+|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-01-18   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2022-01-23   |
+|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md       | 2022-01-24   |
+|  5 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | C        | 2022-01-24   |
+|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-01-24   |
+|  7 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2022-01-24   |
+|  8 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2022-01-24   |
+|  9 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
+| 10 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2022-01-24   |
 
 <!--END_SECTION:my_github-->
