@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 2021-07-27 | Python   | 2022-01-26   |
-|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)              | 2021-08-05 | HTML     | 2022-01-23   |
-|  3 | [tvm](https://github.com/apache/tvm)                                            | 2018-03-27 | Python   | 2022-01-26   |
-|  4 | [tvm](https://github.com/tqchen/tvm)                                            | 2020-08-22 | Python   | 2021-11-17   |
-|  5 | [Python](https://github.com/TheAlgorithms/Python)                               | 2020-05-22 | Python   | 2022-01-26   |
-|  6 | [DesignPattern](https://github.com/suluner/DesignPattern)                       | 2020-07-26 | Java     | 2020-10-10   |
-|  7 | [night](https://github.com/talkgo/night)                                        | 2020-06-05 | Go       | 2022-01-25   |
-|  8 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)       | 2022-01-17 | C        | 2022-01-26   |
-|  9 | [training](https://github.com/mlcommons/training)                               | 2021-08-30 | Python   | 2022-01-25   |
-| 10 | [ray](https://github.com/ray-project/ray)                                       | 2021-01-07 | Python   | 2022-01-26   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-01-26   |
+|  2 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
+|  3 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-01-26   |
+|  4 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python   | 2022-01-26   |
+|  5 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML     | 2022-01-26   |
+|  6 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
+|  7 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-26   |
+|  8 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-01-26   |
+|  9 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | C        | 2022-01-27   |
+| 10 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python   | 2022-01-26   |
 
 <!--END_SECTION:my_github-->
