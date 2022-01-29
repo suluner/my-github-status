@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
-|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-01-27   |
-|  3 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md         | 2022-01-27   |
-|  4 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C          | 2022-01-27   |
-|  5 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2022-01-27   |
-|  6 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2022-01-27   |
-|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-01-27   |
-|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python     | 2022-01-27   |
-|  9 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)      | 2021-12-26 | md         | 2022-01-27   |
-| 10 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python     | 2022-01-27   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown | 2022-01-28   |
+|  2 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-01-28   |
+|  3 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-01-28   |
+|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS      | 2022-01-29   |
+|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python   | 2022-01-28   |
+|  6 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++      | 2022-01-28   |
+|  7 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md       | 2022-01-29   |
+|  8 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python   | 2022-01-28   |
+|  9 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-01-28   |
+| 10 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-01-28   |
 
 <!--END_SECTION:my_github-->
