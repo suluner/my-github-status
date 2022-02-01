@@ -25,17 +25,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [iree](https://github.com/google/iree)                                         | 2021-11-05 | C++      | 2022-01-29   |
-|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                         | 2021-02-01 | Go       | 2022-01-31   |
-|  3 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)           | 2020-07-29 | Markdown | 2022-01-31   |
-|  4 | [taichi](https://github.com/taichi-dev/taichi)                                 | 2020-01-15 | C++      | 2022-01-30   |
-|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                | 2021-03-02 | Python   | 2022-01-30   |
-|  6 | [America-Against-America](https://github.com/zealotCE/America-Against-America) | 2021-01-11 | md       | 2022-01-26   |
-|  7 | [darknet](https://github.com/pjreddie/darknet)                                 | 2017-03-17 | C        | 2022-01-30   |
-|  8 | [training](https://github.com/mlcommons/training)                              | 2021-08-30 | Python   | 2022-01-27   |
-|  9 | [tvm](https://github.com/tqchen/tvm)                                           | 2020-08-22 | Python   | 2021-11-17   |
-| 10 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                 | 2018-06-27 | Python   | 2022-01-30   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-02-01   |
+|  2 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)      | 2021-12-26 | md       | 2022-01-31   |
+|  3 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2022-01-26   |
+|  4 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2022-01-31   |
+|  5 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-01-31   |
+|  6 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md       | 2022-01-31   |
+|  7 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2022-01-29   |
+|  8 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2022-01-31   |
+|  9 | [iree](https://github.com/google/iree)                                                    | 2021-11-05 | C++      | 2022-01-31   |
+| 10 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-01-31   |
 
 <!--END_SECTION:my_github-->
