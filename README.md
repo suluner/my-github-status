@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-02-07   |
-|  2 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown | 2022-02-08   |
-|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS      | 2022-02-07   |
-|  4 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | md       | 2022-02-07   |
-|  5 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-02-07   |
-|  6 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-02-07   |
-|  7 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML     | 2022-01-28   |
-|  8 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-02-02   |
-|  9 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go       | 2022-02-07   |
-| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | md       | 2022-02-08   |
+|  1 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-02-08   |
+|  2 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python   | 2021-11-17   |
+|  3 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-02-08   |
+|  4 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-02-08   |
+|  5 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python   | 2022-02-09   |
+|  6 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python   | 2022-02-02   |
+|  7 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
+|  8 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-02-08   |
+|  9 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-02-08   |
+| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML     | 2022-02-08   |
 
 <!--END_SECTION:my_github-->
