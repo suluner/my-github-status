@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)      | 2021-12-26 | md       | 2022-02-09   |
-|  2 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  3 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-02-10   |
-|  4 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2022-02-10   |
-|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2022-02-09   |
-|  6 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2022-02-09   |
-|  7 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-02-09   |
-|  8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2022-02-09   |
-|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md       | 2022-02-10   |
-| 10 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2022-02-09   |
+|  1 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-02-10   |
+|  2 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2022-02-10   |
+|  3 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2022-02-10   |
+|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | Markdown | 2022-02-10   |
+|  5 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-02-09   |
+|  6 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-02-10   |
+|  7 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2022-02-10   |
+|  8 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2022-02-10   |
+|  9 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2022-02-11   |
+| 10 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
 
 <!--END_SECTION:my_github-->
