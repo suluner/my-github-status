@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2022-02-13   |
-|  2 | [tvm](https://github.com/apache/tvm)                                               | 2018-03-27 | Python   | 2022-02-13   |
-|  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2022-02-05   |
-|  4 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2022-02-11   |
-|  5 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2022-02-12   |
-|  6 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2022-02-13   |
-|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2022-02-14   |
-|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2022-02-13   |
-|  9 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2022-02-13   |
-| 10 | [Python](https://github.com/TheAlgorithms/Python)                                  | 2020-05-22 | Python   | 2022-02-14   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+|  2 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2022-02-15   |
+|  3 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2022-02-15   |
+|  4 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-02-15   |
+|  5 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2022-02-15   |
+|  6 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2022-02-16   |
+|  7 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2022-02-15   |
+|  8 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2022-02-12   |
+|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-02-15   |
+| 10 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-02-16   |
 
 <!--END_SECTION:my_github-->
