@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
-|  2 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2022-02-15   |
-|  3 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2022-02-15   |
-|  4 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-02-15   |
-|  5 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python     | 2022-02-15   |
-|  6 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2022-02-16   |
-|  7 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python     | 2022-02-15   |
-|  8 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python     | 2022-02-12   |
-|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-02-15   |
-| 10 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-02-16   |
+|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | md         | 2022-02-16   |
+|  2 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2022-02-16   |
+|  3 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-02-16   |
+|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown   | 2022-02-17   |
+|  5 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2022-02-16   |
+|  6 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python     | 2022-02-16   |
+|  7 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | C          | 2022-02-16   |
+|  8 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2022-02-16   |
+|  9 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-02-16   |
+| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2022-02-16   |
 
 <!--END_SECTION:my_github-->
