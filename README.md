@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | md         | 2022-02-17   |
-|  2 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2022-02-18   |
-|  3 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2022-02-17   |
-|  4 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++        | 2022-02-17   |
-|  5 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python     | 2022-02-17   |
-|  6 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-02-17   |
-|  7 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2022-02-17   |
-|  8 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | C          | 2022-02-17   |
-|  9 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-02-17   |
-| 10 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java       | 2020-08-25   |
+|  1 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | C          | 2022-02-19   |
+|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
+|  3 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md         | 2022-02-18   |
+|  4 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-02-18   |
+|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2022-02-18   |
+|  6 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2022-02-18   |
+|  7 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2022-02-18   |
+|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-02-18   |
+|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2022-02-19   |
+| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | md         | 2022-02-18   |
 
 <!--END_SECTION:my_github-->
