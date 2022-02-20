@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | C          | 2022-02-19   |
-|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java       | 2020-10-10   |
-|  3 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md         | 2022-02-18   |
-|  4 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-02-18   |
-|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md         | 2022-02-18   |
-|  6 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2022-02-18   |
-|  7 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java       | 2022-02-18   |
-|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-02-18   |
-|  9 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python     | 2022-02-19   |
-| 10 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | md         | 2022-02-18   |
+| ID |                                   REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [night](https://github.com/talkgo/night)                                  | 2020-06-05 | Go       | 2022-02-19   |
+|  2 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                           | 2021-08-30 | Python   | 2022-02-17   |
+|  3 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)      | 2020-07-29 | Markdown | 2022-02-19   |
+|  4 | [BentoML](https://github.com/bentoml/BentoML)                             | 2021-08-20 | Python   | 2022-02-19   |
+|  5 | [DesignPattern](https://github.com/suluner/DesignPattern)                 | 2020-07-26 | Java     | 2020-10-10   |
+|  6 | [training](https://github.com/mlcommons/training)                         | 2021-08-30 | Python   | 2022-02-18   |
+|  7 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 2022-01-17 | C        | 2022-02-19   |
+|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)            | 2018-06-27 | Python   | 2022-02-19   |
+|  9 | [darknet](https://github.com/pjreddie/darknet)                            | 2017-03-17 | C        | 2022-02-19   |
+| 10 | [kubesphere](https://github.com/kubesphere/kubesphere)                    | 2021-02-01 | Go       | 2022-02-19   |
 
 <!--END_SECTION:my_github-->
