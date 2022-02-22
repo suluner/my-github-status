@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [DesignPattern](https://github.com/suluner/DesignPattern)                          | 2020-07-26 | Java     | 2020-10-10   |
-|  2 | [algorithms](https://github.com/xtaci/algorithms)                                  | 2021-01-17 | C++      | 2022-02-20   |
-|  3 | [tvm](https://github.com/tqchen/tvm)                                               | 2020-08-22 | Python   | 2021-11-17   |
-|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                             | 2021-02-01 | Go       | 2022-02-20   |
-|  5 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                    | 2021-08-30 | Python   | 2022-02-17   |
-|  6 | [folly](https://github.com/facebook/folly)                                         | 2021-08-27 | C++      | 2022-02-20   |
-|  7 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2022-02-20   |
-|  8 | [ray](https://github.com/ray-project/ray)                                          | 2021-01-07 | Python   | 2022-02-20   |
-|  9 | [taichi](https://github.com/taichi-dev/taichi)                                     | 2020-01-15 | C++      | 2022-02-20   |
-| 10 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2022-02-20   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-02-21   |
+|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-02-21   |
+|  3 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | C        | 2022-02-21   |
+|  4 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2022-02-21   |
+|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2022-02-21   |
+|  6 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-02-21   |
+|  7 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)      | 2021-12-26 | md       | 2022-02-21   |
+|  8 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
+|  9 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java     | 2022-02-21   |
+| 10 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-02-12   |
 
 <!--END_SECTION:my_github-->
