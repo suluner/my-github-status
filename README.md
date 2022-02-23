@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-02-21   |
-|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-02-21   |
-|  3 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | C        | 2022-02-21   |
-|  4 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2022-02-21   |
-|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2022-02-21   |
-|  6 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-02-21   |
-|  7 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)      | 2021-12-26 | md       | 2022-02-21   |
-|  8 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  9 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java     | 2022-02-21   |
-| 10 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-02-12   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python   | 2022-02-21   |
+|  2 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python   | 2022-02-22   |
+|  3 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML     | 2022-02-22   |
+|  4 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-02-22   |
+|  5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-02-23   |
+|  6 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS      | 2022-02-22   |
+|  7 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C        | 2022-02-23   |
+|  8 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown | 2022-02-23   |
+|  9 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go       | 2022-02-23   |
+| 10 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python   | 2022-02-22   |
 
 <!--END_SECTION:my_github-->
