@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
-|  2 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown | 2022-02-24   |
-|  3 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++      | 2022-02-23   |
-|  4 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-02-23   |
-|  5 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python   | 2022-02-23   |
-|  6 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | C        | 2022-02-23   |
-|  7 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md       | 2022-02-23   |
-|  8 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python   | 2022-02-23   |
-|  9 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-02-23   |
-| 10 | [jina](https://github.com/jina-ai/jina)                                              | 2021-09-07 | Python   | 2022-02-23   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2022-02-22   |
+|  2 | [iree](https://github.com/google/iree)                                             | 2021-11-05 | C++      | 2022-02-24   |
+|  3 | [jina](https://github.com/jina-ai/jina)                                            | 2021-09-07 | Python   | 2022-02-24   |
+|  4 | [training](https://github.com/mlcommons/training)                                  | 2021-08-30 | Python   | 2022-02-24   |
+|  5 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2022-02-24   |
+|  6 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                     | 2018-06-27 | Python   | 2022-02-24   |
+|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)    | 2021-07-27 | Python   | 2022-02-24   |
+|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)             | 2020-09-04 | md       | 2022-02-25   |
+|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2022-02-23   |
+| 10 | [America-Against-America](https://github.com/zealotCE/America-Against-America)     | 2021-01-11 | md       | 2022-02-24   |
 
 <!--END_SECTION:my_github-->
