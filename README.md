@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go         | 2022-02-26   |
-|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS        | 2022-02-26   |
-|  3 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++        | 2022-02-26   |
-|  4 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-02-26   |
-|  5 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2022-02-26   |
-|  6 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | C          | 2022-02-26   |
-|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go         | 2022-02-26   |
-|  8 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-02-26   |
-|  9 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++        | 2022-02-26   |
-| 10 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python     | 2022-02-27   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md       | 2022-02-27   |
+|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS      | 2022-02-27   |
+|  3 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
+|  4 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-02-28   |
+|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md       | 2022-02-28   |
+|  6 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-02-27   |
+|  7 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python   | 2022-02-27   |
+|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-02-27   |
+|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
+| 10 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++      | 2022-02-27   |
 
 <!--END_SECTION:my_github-->
