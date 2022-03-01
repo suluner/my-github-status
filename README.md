@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md       | 2022-02-27   |
-|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS      | 2022-02-27   |
-|  3 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
-|  4 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-02-28   |
-|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md       | 2022-02-28   |
-|  6 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-02-27   |
-|  7 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python   | 2022-02-27   |
-|  8 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                       | 2018-06-27 | Python   | 2022-02-27   |
-|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
-| 10 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++      | 2022-02-27   |
+|  1 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-02-28   |
+|  2 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python   | 2022-02-23   |
+|  3 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-02-28   |
+|  4 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-02-28   |
+|  5 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
+|  6 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-02-25   |
+|  7 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
+|  8 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-02-28   |
+|  9 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | HTML     | 2022-02-28   |
+| 10 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python   | 2022-02-25   |
 
 <!--END_SECTION:my_github-->
