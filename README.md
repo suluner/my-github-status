@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-02-28   |
-|  2 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python   | 2022-02-23   |
-|  3 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-02-28   |
-|  4 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-02-28   |
-|  5 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
-|  6 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-02-25   |
-|  7 | [Notes](https://github.com/suluner/Notes)                                            | 2020-08-25 | Java     | 2020-08-25   |
-|  8 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-02-28   |
-|  9 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | HTML     | 2022-02-28   |
-| 10 | [tf_repos](https://github.com/lambdaji/tf_repos)                                     | 2021-04-20 | Python   | 2022-02-25   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                 | 2021-03-02 | Python   | 2022-03-02   |
+|  2 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 2021-07-27 | Python   | 2022-03-01   |
+|  3 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)            | 2020-07-29 | Markdown | 2022-03-02   |
+|  4 | [iree](https://github.com/google/iree)                                          | 2021-11-05 | C++      | 2022-03-01   |
+|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                  | 2018-06-27 | Python   | 2022-03-01   |
+|  6 | [Python](https://github.com/TheAlgorithms/Python)                               | 2020-05-22 | Python   | 2022-03-02   |
+|  7 | [taichi](https://github.com/taichi-dev/taichi)                                  | 2020-01-15 | C++      | 2022-03-01   |
+|  8 | [BentoML](https://github.com/bentoml/BentoML)                                   | 2021-08-20 | Python   | 2022-03-01   |
+|  9 | [folly](https://github.com/facebook/folly)                                      | 2021-08-27 | C++      | 2022-03-01   |
+| 10 | [night](https://github.com/talkgo/night)                                        | 2020-06-05 | Go       | 2022-03-01   |
 
 <!--END_SECTION:my_github-->
