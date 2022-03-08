@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C        | 2022-03-06   |
-|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML     | 2022-03-05   |
-|  3 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)      | 2021-07-27 | Python   | 2022-03-07   |
-|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown | 2022-03-07   |
-|  5 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md       | 2022-03-06   |
-|  6 | [EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-03-06   |
-|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go       | 2022-03-06   |
-|  8 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python   | 2022-03-06   |
-|  9 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python   | 2022-03-07   |
-| 10 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-03-06   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
+|  2 | [iree](https://github.com/google/iree)                                                    | 2021-11-05 | C++      | 2022-03-08   |
+|  3 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2022-03-07   |
+|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | Markdown | 2022-03-08   |
+|  5 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2022-03-08   |
+|  6 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2022-03-07   |
+|  7 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-02-25   |
+|  8 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md       | 2022-03-08   |
+|  9 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | HTML     | 2022-03-07   |
+| 10 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-07   |
 
 <!--END_SECTION:my_github-->
