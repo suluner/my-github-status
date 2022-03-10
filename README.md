@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-03-08   |
-|  2 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
-|  3 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-09   |
-|  4 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-03-08   |
-|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2022-03-08   |
-|  6 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-02-25   |
-|  7 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2022-03-08   |
-|  9 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2022-03-08   |
-| 10 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2022-03-08   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                    | 2021-03-02 | Python   | 2022-03-09   |
+|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                   | 2021-04-20 | Python   | 2022-02-25   |
+|  3 | [folly](https://github.com/facebook/folly)                                         | 2021-08-27 | C++      | 2022-03-09   |
+|  4 | [Notes](https://github.com/suluner/Notes)                                          | 2020-08-25 | Java     | 2020-08-25   |
+|  5 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)               | 2020-07-29 | Markdown | 2022-03-10   |
+|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 2021-08-27 | md       | 2022-03-07   |
+|  7 | [runtime](https://github.com/tensorflow/runtime)                                   | 2022-02-23 | C++      | 2022-03-09   |
+|  8 | [tvm](https://github.com/tqchen/tvm)                                               | 2020-08-22 | Python   | 2021-11-17   |
+|  9 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                 | 2021-08-05 | HTML     | 2022-03-09   |
+| 10 | [iree](https://github.com/google/iree)                                             | 2021-11-05 | C++      | 2022-03-09   |
 
 <!--END_SECTION:my_github-->
