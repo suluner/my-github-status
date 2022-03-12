@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python     | 2022-03-11   |
-|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML       | 2022-03-10   |
-|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS        | 2022-03-10   |
-|  4 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)    | 2021-12-26 | md         | 2022-03-10   |
-|  5 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java       | 2020-10-10   |
-|  6 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-03-10   |
-|  7 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go         | 2022-03-10   |
-|  8 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-03-10   |
-|  9 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python     | 2022-03-11   |
-| 10 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md         | 2022-03-11   |
+|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md         | 2022-03-12   |
+|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-03-11   |
+|  3 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go         | 2022-03-11   |
+|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS        | 2022-03-11   |
+|  5 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
+|  6 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java       | 2022-03-11   |
+|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-03-11   |
+|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md         | 2022-03-10   |
+|  9 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python     | 2022-03-11   |
+| 10 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++        | 2022-03-10   |
 
 <!--END_SECTION:my_github-->
