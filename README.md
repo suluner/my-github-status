@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md         | 2022-03-12   |
-|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-03-11   |
-|  3 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go         | 2022-03-11   |
-|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS        | 2022-03-11   |
-|  5 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
-|  6 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java       | 2022-03-11   |
-|  7 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-03-11   |
-|  8 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md         | 2022-03-10   |
-|  9 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python     | 2022-03-11   |
-| 10 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++        | 2022-03-10   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2022-03-12   |
+|  2 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2022-03-12   |
+|  3 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2022-03-13   |
+|  4 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-03-12   |
+|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-03-12   |
+|  6 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2022-03-13   |
+|  7 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2022-03-12   |
+|  8 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2022-03-12   |
+|  9 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2022-03-12   |
+| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-03-12   |
 
 <!--END_SECTION:my_github-->
