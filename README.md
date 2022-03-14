@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                   | 2021-08-05 | HTML       | 2022-03-12   |
-|  2 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2022-03-12   |
-|  3 | [Python](https://github.com/TheAlgorithms/Python)                                    | 2020-05-22 | Python     | 2022-03-13   |
-|  4 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++        | 2022-03-12   |
-|  5 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-03-12   |
-|  6 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2022-03-13   |
-|  7 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2022-03-12   |
-|  8 | [folly](https://github.com/facebook/folly)                                           | 2021-08-27 | C++        | 2022-03-12   |
-|  9 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2022-03-12   |
-| 10 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)   | 2021-08-27 | md         | 2022-03-12   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [runtime](https://github.com/tensorflow/runtime)                                          | 2022-02-23 | C++      | 2022-03-13   |
+|  2 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2022-03-13   |
+|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2022-03-13   |
+|  4 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2022-03-11   |
+|  5 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-03-13   |
+|  6 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2022-03-14   |
+|  7 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
+|  8 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-13   |
+|  9 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2022-03-14   |
+| 10 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2022-03-13   |
 
 <!--END_SECTION:my_github-->
