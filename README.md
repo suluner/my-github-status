@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python   | 2022-03-11   |
-|  2 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python   | 2022-03-16   |
-|  3 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-03-14   |
-|  4 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)               | 2020-09-04 | md       | 2022-03-17   |
-|  5 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                 | 2020-07-29 | Markdown | 2022-03-16   |
-|  6 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python   | 2022-03-16   |
-|  7 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS      | 2022-03-16   |
-|  8 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-03-16   |
-|  9 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | HTML     | 2022-03-17   |
-| 10 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-03-16   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
+|  2 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md       | 2022-03-17   |
+|  3 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2022-03-15   |
+|  4 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS      | 2022-03-17   |
+|  5 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2022-03-17   |
+|  6 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-03-17   |
+|  7 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2022-03-17   |
+|  8 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-17   |
+|  9 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2022-03-17   |
+| 10 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2022-03-17   |
 
 <!--END_SECTION:my_github-->
