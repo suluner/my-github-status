@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
-|  2 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-19   |
-|  3 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-03-17   |
-|  4 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2022-03-19   |
-|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2022-03-20   |
-|  6 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-03-19   |
-|  7 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2022-03-19   |
-|  8 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python   | 2022-03-19   |
-|  9 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2022-03-11   |
-| 10 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2022-03-19   |
+|  1 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java     | 2022-03-20   |
+|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2022-03-20   |
+|  3 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-21   |
+|  4 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-03-17   |
+|  5 | [runtime](https://github.com/tensorflow/runtime)                                          | 2022-02-23 | C++      | 2022-03-15   |
+|  6 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2022-03-11   |
+|  7 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2022-03-20   |
+|  8 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
+|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md       | 2022-03-20   |
+| 10 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2022-03-20   |
 
 <!--END_SECTION:my_github-->
