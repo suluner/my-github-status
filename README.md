@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [runtime](https://github.com/tensorflow/runtime)                                       | 2022-02-23 | C++      | 2022-03-24   |
-|  2 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                     | 2021-08-05 | HTML     | 2022-03-24   |
-|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                         | 2018-06-27 | Python   | 2022-03-24   |
-|  4 | [tvm](https://github.com/tqchen/tvm)                                                   | 2020-08-22 | Python   | 2021-11-17   |
-|  5 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                   | 2020-07-29 | Markdown | 2022-03-24   |
-|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)     | 2021-08-27 | md       | 2022-03-23   |
-|  7 | [tf_repos](https://github.com/lambdaji/tf_repos)                                       | 2021-04-20 | Python   | 2022-03-22   |
-|  8 | [tvm](https://github.com/apache/tvm)                                                   | 2018-03-27 | Python   | 2022-03-24   |
-|  9 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) | 2021-12-26 | md       | 2022-03-24   |
-| 10 | [BentoML](https://github.com/bentoml/BentoML)                                          | 2021-08-20 | Python   | 2022-03-24   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML     | 2022-03-25   |
+|  2 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md       | 2022-03-26   |
+|  3 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python   | 2022-03-25   |
+|  4 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-03-25   |
+|  5 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2022-03-25   |
+|  6 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-25   |
+|  7 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2022-03-25   |
+|  8 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python   | 2022-03-25   |
+|  9 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
+| 10 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python   | 2022-03-21   |
 
 <!--END_SECTION:my_github-->
