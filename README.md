@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-03-26   |
-|  2 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java       | 2020-10-10   |
-|  3 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md         | 2022-03-27   |
-|  4 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-03-26   |
-|  5 | [jina](https://github.com/jina-ai/jina)                                                   | 2021-09-07 | Python     | 2022-03-26   |
-|  6 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-03-27   |
-|  7 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python     | 2022-03-26   |
-|  8 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)    | 2021-12-26 | md         | 2022-03-26   |
-|  9 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md         | 2022-03-26   |
-| 10 | [iree](https://github.com/google/iree)                                                    | 2021-11-05 | C++        | 2022-03-26   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | HTML     | 2022-03-28   |
+|  2 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2022-03-27   |
+|  3 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2022-03-27   |
+|  4 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2022-03-24   |
+|  5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java     | 2022-03-27   |
+|  6 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-03-22   |
+|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-03-27   |
+|  8 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-03-27   |
+|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2022-03-27   |
+| 10 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-28   |
 
 <!--END_SECTION:my_github-->
