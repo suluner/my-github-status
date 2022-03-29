@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)                 | 2022-01-17 | HTML     | 2022-03-28   |
-|  2 | [algorithms](https://github.com/xtaci/algorithms)                                         | 2021-01-17 | C++      | 2022-03-27   |
-|  3 | [night](https://github.com/talkgo/night)                                                  | 2020-06-05 | Go       | 2022-03-27   |
-|  4 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2022-03-24   |
-|  5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java     | 2022-03-27   |
-|  6 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-03-22   |
-|  7 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-03-27   |
-|  8 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-03-27   |
-|  9 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md       | 2022-03-27   |
-| 10 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-28   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)    | 2021-12-26 | md         | 2022-03-28   |
+|  2 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
+|  3 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2022-03-27   |
+|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | Markdown   | 2022-03-28   |
+|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python     | 2022-03-28   |
+|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-03-28   |
+|  7 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-03-29   |
+|  8 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-03-28   |
+|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java       | 2020-10-10   |
+| 10 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python     | 2022-03-25   |
 
 <!--END_SECTION:my_github-->
