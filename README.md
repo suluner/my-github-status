@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)    | 2021-12-26 | md         | 2022-03-28   |
-|  2 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
-|  3 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2022-03-27   |
-|  4 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                      | 2020-07-29 | Markdown   | 2022-03-28   |
-|  5 | [NLP-progress](https://github.com/sebastianruder/NLP-progress)                            | 2018-06-27 | Python     | 2022-03-28   |
-|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-03-28   |
-|  7 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-03-29   |
-|  8 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-03-28   |
-|  9 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java       | 2020-10-10   |
-| 10 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python     | 2022-03-25   |
+|  1 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java       | 2022-03-29   |
+|  2 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-03-29   |
+|  3 | [qcloud-documents](https://github.com/tencentyun/qcloud-documents)                        | 2021-08-05 | HTML       | 2022-03-29   |
+|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java       | 2020-10-10   |
+|  5 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-03-29   |
+|  6 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)        | 2021-08-27 | md         | 2022-03-28   |
+|  7 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python     | 2022-03-29   |
+|  8 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python     | 2022-03-22   |
+|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-03-30   |
+| 10 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)    | 2021-12-26 | md         | 2022-03-29   |
 
 <!--END_SECTION:my_github-->
