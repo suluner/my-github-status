@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [runtime](https://github.com/tensorflow/runtime)                                          | 2022-02-23 | C++      | 2022-03-30   |
-|  2 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2022-03-30   |
+|  1 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
+|  2 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2020-01-15 | Java     | 2022-03-31   |
 |  3 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2022-03-24   |
-|  4 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-03-30   |
-|  5 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python   | 2022-03-31   |
-|  6 | [darknet](https://github.com/pjreddie/darknet)                                            | 2017-03-17 | C        | 2022-03-30   |
-|  7 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java     | 2020-08-25   |
-|  8 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-03-31   |
-|  9 | [kubesphere](https://github.com/kubesphere/kubesphere)                                    | 2021-02-01 | Go       | 2022-03-30   |
-| 10 | [iree](https://github.com/google/iree)                                                    | 2021-11-05 | C++      | 2022-03-30   |
+|  4 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java     | 2020-10-10   |
+|  5 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2022-03-31   |
+|  6 | [taichi](https://github.com/taichi-dev/taichi)                                            | 2020-01-15 | C++      | 2022-03-31   |
+|  7 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-04-01   |
+|  8 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md       | 2022-03-31   |
+|  9 | [BentoML](https://github.com/bentoml/BentoML)                                             | 2021-08-20 | Python   | 2022-03-31   |
+| 10 | [runtime](https://github.com/tensorflow/runtime)                                          | 2022-02-23 | C++      | 2022-03-31   |
 
 <!--END_SECTION:my_github-->
