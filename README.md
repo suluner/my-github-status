@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)   | 2018-03-01 | CSS        | 2022-04-02   |
-|  2 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-04-02   |
-|  3 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2022-04-01   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                                         | 2019-04-03 | md         | 2022-04-03   |
-|  5 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python     | 2021-11-17   |
-|  6 | [darknet](https://github.com/pjreddie/darknet)                                       | 2017-03-17 | C          | 2022-04-02   |
-|  7 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python     | 2022-04-01   |
-|  8 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++        | 2022-04-02   |
-|  9 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2022-04-03   |
-| 10 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go         | 2022-04-02   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++      | 2022-04-03   |
+|  2 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                      | 2021-08-30 | Python   | 2022-04-01   |
+|  3 | [taichi](https://github.com/taichi-dev/taichi)                                       | 2020-01-15 | C++      | 2022-04-03   |
+|  4 | [night](https://github.com/talkgo/night)                                             | 2020-06-05 | Go       | 2022-04-03   |
+|  5 | [DesignPattern](https://github.com/suluner/DesignPattern)                            | 2020-07-26 | Java     | 2020-10-10   |
+|  6 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2020-01-15 | Java     | 2022-04-03   |
+|  7 | [training](https://github.com/mlcommons/training)                                    | 2021-08-30 | Python   | 2022-04-03   |
+|  8 | [iree](https://github.com/google/iree)                                               | 2021-11-05 | C++      | 2022-04-02   |
+|  9 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python   | 2022-04-03   |
+| 10 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python   | 2022-04-03   |
 
 <!--END_SECTION:my_github-->
