@@ -26,17 +26,17 @@
 |----|------|-----------|-----------|---------|
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [DLPerf](https://github.com/Oneflow-Inc/DLPerf)                                           | 2021-08-30 | Python   | 2022-04-01   |
-|  2 | [tf_repos](https://github.com/lambdaji/tf_repos)                                          | 2021-04-20 | Python   | 2022-03-22   |
-|  3 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md       | 2022-04-06   |
-|  4 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++      | 2022-04-06   |
-|  5 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python   | 2021-11-17   |
-|  6 | [ray](https://github.com/ray-project/ray)                                                 | 2021-01-07 | Python   | 2022-04-06   |
-|  7 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python   | 2022-04-06   |
-|  8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)           | 2021-07-27 | Python   | 2022-04-07   |
-|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md       | 2022-04-07   |
-| 10 | [runtime](https://github.com/tensorflow/runtime)                                          | 2022-02-23 | C++      | 2022-04-05   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 2021-08-27 | JavaScript | 2022-04-07   |
+|  2 | [kubesphere](https://github.com/kubesphere/kubesphere)                               | 2021-02-01 | Go         | 2022-04-07   |
+|  3 | [tvm](https://github.com/tqchen/tvm)                                                 | 2020-08-22 | Python     | 2021-11-17   |
+|  4 | [algorithms](https://github.com/xtaci/algorithms)                                    | 2021-01-17 | C++        | 2022-04-07   |
+|  5 | [BentoML](https://github.com/bentoml/BentoML)                                        | 2021-08-20 | Python     | 2022-04-07   |
+|  6 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                      | 2021-03-02 | Python     | 2022-04-08   |
+|  7 | [tvm](https://github.com/apache/tvm)                                                 | 2018-03-27 | Python     | 2022-04-08   |
+|  8 | [ray](https://github.com/ray-project/ray)                                            | 2021-01-07 | Python     | 2022-04-08   |
+|  9 | [America-Against-America](https://github.com/zealotCE/America-Against-America)       | 2021-01-11 | md         | 2022-04-07   |
+| 10 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)            | 2022-01-17 | HTML       | 2022-04-07   |
 
 <!--END_SECTION:my_github-->
