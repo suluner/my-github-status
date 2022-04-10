@@ -28,15 +28,15 @@
 ## The repos I stared (random 10)
 | ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-04-09   |
-|  2 | [folly](https://github.com/facebook/folly)                                                | 2021-08-27 | C++        | 2022-04-08   |
-|  3 | [DesignPattern](https://github.com/suluner/DesignPattern)                                 | 2020-07-26 | Java       | 2020-10-10   |
-|  4 | [tvm](https://github.com/apache/tvm)                                                      | 2018-03-27 | Python     | 2022-04-08   |
-|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)        | 2018-03-01 | CSS        | 2022-04-08   |
-|  6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-04-08   |
+|  1 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)    | 2021-12-26 | md         | 2022-04-09   |
+|  2 | [America-Against-America](https://github.com/zealotCE/America-Against-America)            | 2021-01-11 | md         | 2022-04-07   |
+|  3 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)                           | 2021-03-02 | Python     | 2022-04-09   |
+|  4 | [Notes](https://github.com/suluner/Notes)                                                 | 2020-08-25 | Java       | 2020-08-25   |
+|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                              | 2019-04-03 | md         | 2022-04-09   |
+|  6 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                    | 2020-09-04 | md         | 2022-04-10   |
 |  7 | [Python](https://github.com/TheAlgorithms/Python)                                         | 2020-05-22 | Python     | 2022-04-09   |
-|  8 | [tvm](https://github.com/tqchen/tvm)                                                      | 2020-08-22 | Python     | 2021-11-17   |
-|  9 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2022-04-07   |
-| 10 | [runtime](https://github.com/tensorflow/runtime)                                          | 2022-02-23 | C++        | 2022-04-05   |
+|  8 | [training](https://github.com/mlcommons/training)                                         | 2021-08-30 | Python     | 2022-04-09   |
+|  9 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 2018-06-30 | md         | 2022-04-10   |
+| 10 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)      | 2021-08-27 | JavaScript | 2022-04-09   |
 
 <!--END_SECTION:my_github-->
